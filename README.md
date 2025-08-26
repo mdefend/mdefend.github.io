@@ -1,3 +1,2 @@
 # mdefend.github.io
-<<Maggie DeFend>>
-<<SI 338 Fall 2025>>
+<<Maggie DeFend>><<SI 338 Fall 2025>>
